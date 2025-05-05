@@ -1,0 +1,85 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "image": "https://minapi.beemarket.uz/prod-media/productImages/1718098391O5UtBQSVp8Hr.webp",
+        "title": "Smartfon Redmi Note 12",
+        "description": "Snapdragon, AMOLED, 5000mAh batareya",
+        "price": 3000000
+      },
+      {
+        "id": 2,
+        "image": "https://images.uzum.uz/ck8qq6nhj8j9g69dta1g/t_product_240_high.jpg",
+        "title": "Smartfon Samsung Galaxy A14",
+        "description": "64 GB xotira, kuchli kamera",
+        "price": 2500000
+      },
+      {
+        "id": 3,
+        "image": "https://images.uzum.uz/ck94bq2l7c6qm23bopm0/t_product_240_high.jpg",
+        "title": "Televizor Artel 32'",
+        "description": "Full HD, Android TV, HDMI",
+        "price": 1500000
+      },
+      {
+        "id": 4,
+        "image": "https://images.uzum.uz/ck4peern7d7lf6mmqmqg/t_product_240_high.jpg",
+        "title": "Kir yuvish mashinasi",
+        "description": "Avtomatik, 6kg, Artel brendi",
+        "price": 2000000
+      },
+      {
+        "id": 5,
+        "image": "https://images.uzum.uz/cj0t3f7enntd8g1u4r4g/t_product_240_high.jpg",
+        "title": "Changyutgich Xiaomi",
+        "description": "Simli, kuchli so‘rish imkoniyati",
+        "price": 450000
+      },
+      {
+        "id": 6,
+        "image": "https://images.uzum.uz/cj5ls17enntd8g1u8rkg/t_product_240_high.jpg",
+        "title": "Quloqchin AirPods Pro",
+        "description": "Bluetooth, ovoz izolyatsiyasi",
+        "price": 2500000
+      },
+      {
+        "id": 7,
+        "image": "https://images.uzum.uz/ck4mv2h25ku1lubtkq70/t_product_240_high.jpg",
+        "title": "Smart soat Mibro",
+        "description": "Qadam o‘lchagich, yurak urishi monitori",
+        "price": 600000
+      },
+      {
+        "id": 8,
+        "image": "https://images.uzum.uz/ck1nq3nhj8j9g69dp9t0/t_product_240_high.jpg",
+        "title": "Notebook Lenovo",
+        "description": "Core i5, 8GB RAM, SSD disk",
+        "price": 4500000
+      }
+    ],
+    "cart": [],
+    "orders": [
+      {
+        "id": 1,
+        "user": "Ali",
+        "email": "ali@example.com",
+        "products": [
+          {
+            "id": 2,
+            "title": "Smartfon Samsung Galaxy A14",
+            "price": 2500000,
+            "quantity": 1
+          },
+          {
+            "id": 6,
+            "title": "Quloqchin AirPods Pro",
+            "price": 2500000,
+            "quantity": 2
+          }
+        ],
+        "total": 7500000,
+        "status": "pending"
+      }
+    ]
+  }
+  
